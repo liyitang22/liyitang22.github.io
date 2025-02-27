@@ -6,7 +6,7 @@
   <li><a><autocolor>National Scholarship.</autocolor></a><strong> <i style="color:#e74d3c">Highest honor for undergraduates</i></strong></li>
   <li><a><autocolor>Jiokun Special Scholarship.</autocolor></a></li>
   <li><a><autocolor>SenseTime Scholarship.</autocolor></a></li>
-  <li><a><autocolor>Golden Award Team for Summer Social Practice.</autocolor></a></li><strong> <i style="color:#e74d3c">Only 5 in the entire school</i></strong>
+  <li><a><autocolor>Golden Award Team for Summer Social Practice.</autocolor></a><strong> <i style="color:#e74d3c">Only 5 in the entire school</i></strong></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">2023</h4>
