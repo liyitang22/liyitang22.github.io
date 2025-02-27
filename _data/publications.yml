@@ -6,7 +6,7 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.10740
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    project: https://zzk273.github.io/freemotion.github.io/
     image: ./assets/img/freemotion.png
     # notes: Early Accept
 
