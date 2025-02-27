@@ -17,7 +17,7 @@
   <li><a><autocolor>Outstanding Award for English Speech Contest.</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">2023</h4>
+<h4 style="margin:0 10px 0;">2022</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>Gold winner of the 22nd Asian Physics Olympiad.</autocolor></a></li>
