@@ -3,7 +3,7 @@ main:
   - title: "FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models"
     authors: Zhikai Zhang, <strong>Yitang Li</strong>, Haofeng Huang, Mingxian Lin, Li Yi* (*Corresponding authors)
     conference_short: ECCV
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(ECCV)</strong>, 2024.
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.10740
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
