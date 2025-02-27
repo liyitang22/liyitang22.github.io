@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a junior in Yao Class at Tsinghua University, majoring in Artificial Intelligence. Prior to this, I was a member of the Chinese national team for the Asian Physics Olympiad. I maintain a GPA of 3.0 and am advised by Prof. Li Yi at Tsinghua University.
+
+Currently, I am serving as a student intern in Lecar Lab at Carnegie Mellon University, where I am advised by Prof. Guanya Shi. My primary research interests include physics-based motion synthesis and robot learning.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** physics-based motion synthesis, interaction-centered motion synthesis, vision-languge model, motion structure
+- **Robot Learning:** robot control, reinforcement learning
 
-## News
+<!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
 
