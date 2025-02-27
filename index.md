@@ -23,4 +23,4 @@ Currently, I am serving as a student intern in Lecar Lab at Carnegie Mellon Univ
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/selected_awards.md %}
