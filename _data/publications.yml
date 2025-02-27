@@ -4,7 +4,7 @@ main:
     authors: Zhikai Zhang, <strong>Yitang Li</strong>, Haofeng Huang, Mingxian Lin, Li Yi* (*Corresponding authors)
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2406.10740
+    pdf: https://arxiv.org/abs/2406.10740.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     project: https://zzk273.github.io/freemotion.github.io/
     image: ./assets/img/freemotion.png
