@@ -14,7 +14,8 @@ main:
     authors: <strong>Yitang Li</strong>, Mingxian Lin, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi* (*Corresponding authors)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: http://arxiv.org/abs/2503.07481
+    project: https://liyitang22.github.io/phys-reach-grasp/
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
