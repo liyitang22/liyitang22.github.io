@@ -7,7 +7,8 @@ I am currently a junior in [Institute for Interdisciplinary Information Sciences
 
 In terms of academic performance, my average GPA is 3.98, ranking first in my class. I started doing scientific research advised by Prof. [Li Yi](https://ericyi.github.io/) in the second semester of my freshman year. Currently, I am serving as a student intern in [LeCAR Lab](https://lecar-lab.github.io/) at Carnegie Mellon University, where I am advised by Prof. [Guanya Shi](https://www.gshi.me/). My primary research interests include physics-based motion synthesis and robot learning.
 
-In addition to my academic and research work, I am an outgoing and enthusiastic communicator. I have frequently taken center stage as an emcee, performer, and student representative speaker at major university events, and have served as class monitor to support my peers. I love meeting new people and making friends. In my free time, I enjoy singing, dancing, fitness, and traveling, which have all helped shape my confidence and collaborative spirit.
+**In addition to my academic and research work, I am an outgoing and enthusiastic communicator.** I have frequently taken center stage as an **emcee**, **performer**, and **student representative speaker** at major university events 🎤🎭, and have served as **class monitor** to support my peers 🙋‍♀️. **I love meeting new people and making friends** 😊. In my free time, I enjoy **singing** 🎶, **dancing** 💃, **fitness** 🏋️, and **traveling** ✈️ — which have all helped shape my confidence and collaborative spirit 🌟.
+
 
 ## Research Interests
 
