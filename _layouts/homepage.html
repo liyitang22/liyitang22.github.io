@@ -43,7 +43,22 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1 id="name"></h1>
+        
+        <script>
+          const names = ["李忆唐", "Yitang Li"];
+          const nameElement = document.getElementById("name");
+          let index = 0;
+        
+          // 初始化显示
+          nameElement.textContent = names[index];
+        
+          // 每 5 秒切换一次
+          setInterval(function() {
+            index = (index + 1) % names.length;  // 切换索引，0 和 1 之间循环
+            nameElement.textContent = names[index];  // 更新显示的名字
+          }, 5000);  // 5000 毫秒 = 5 秒
+        </script>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
