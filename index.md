@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a junior in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the Chinese national team for the Asian Physics Olympiad. 
+I am currently a junior in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the Chinese national team for the <span style="color:darkred"><strong>Asian Physics Olympiad</strong></span>. 
 
 In terms of academic performance, my average GPA is 3.98, <span style="color:darkred"><strong>ranking first in my class</strong></span>. I started doing scientific research advised by Prof. [Li Yi](https://ericyi.github.io/) in the second semester of my freshman year. Currently, I am serving as a student intern in [LeCAR Lab](https://lecar-lab.github.io/) at Carnegie Mellon University, where I am advised by Prof. [Guanya Shi](https://www.gshi.me/). My primary research interests include physics-based motion synthesis and robot learning.
 
