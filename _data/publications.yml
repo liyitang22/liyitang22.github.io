@@ -1,11 +1,23 @@
 main:
+  - title: "Hold My Beer🍻: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
+    authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi* (*Corresponding authors)
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    # pdf: http://arxiv.org/abs/2503.07481
+    project: https://lecar-lab.github.io/SoFTA/
+    code: https://github.com/LeCAR-Lab/SoFTA
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
+    # notes: Oral Presentation
+    image: ./assets/img/softa.png
+
   - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
     authors: <strong>Yitang Li</strong>, Mingxian Lin, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi* (*Corresponding authors)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: http://arxiv.org/abs/2503.07481
     project: https://liyitang22.github.io/phys-reach-grasp/
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/liyitang22/phys-reach-grasp
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
