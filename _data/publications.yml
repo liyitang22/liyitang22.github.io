@@ -3,7 +3,7 @@ main:
     authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi* (*Corresponding authors)
     # conference_short: CVPR
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    # pdf: http://arxiv.org/abs/2503.07481
+    pdf: https://arxiv.org/abs/2505.24198
     project: https://lecar-lab.github.io/SoFTA/
     code: https://github.com/LeCAR-Lab/SoFTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
