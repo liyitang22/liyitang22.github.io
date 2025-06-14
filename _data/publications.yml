@@ -1,6 +1,6 @@
 main:
   - title: "Hold My Beer🍻: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
-    authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi* (*Corresponding authors)
+    authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi
     # conference_short: CVPR
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.24198
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/softa.png
 
   - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
-    authors: <strong>Yitang Li</strong>, Mingxian Lin, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi* (*Corresponding authors)
+    authors: <strong>Yitang Li</strong>*, Mingxian Lin*, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi (Equal Contribution)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: http://arxiv.org/abs/2503.07481
@@ -24,7 +24,7 @@ main:
     image: ./assets/img/walk.png
     
   - title: "FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models"
-    authors: Zhikai Zhang, <strong>Yitang Li</strong>, Haofeng Huang, Mingxian Lin, Li Yi* (*Corresponding authors)
+    authors: Zhikai Zhang, <strong>Yitang Li</strong>, Haofeng Huang, Mingxian Lin, Li Yi
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.10740.pdf
@@ -33,14 +33,14 @@ main:
     image: ./assets/img/freemotion.png
     # notes: Early Accept
 
-  - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
-    authors: Zifan Wang, Jingwei Li, <strong>Yitang Li</strong>, Yunze Liu* (*Corresponding authors)
-    conference_short: UAI
-    conference: The Conference on Uncertainty in Artificial Intelligence, 2025.
-    pdf: https://arxiv.org/abs/2505.11386
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # project: https://zzk273.github.io/freemotion.github.io/
-    image: ./assets/img/mutualnerf.png
-    # notes: Early Accept
+  # - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
+  #   authors: Zifan Wang*, Jingwei Li*, <strong>Yitang Li</strong>, Yunze Liu (Equal Contribution)
+  #   conference_short: UAI
+  #   conference: The Conference on Uncertainty in Artificial Intelligence, 2025.
+  #   pdf: https://arxiv.org/abs/2505.11386
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # project: https://zzk273.github.io/freemotion.github.io/
+  #   image: ./assets/img/mutualnerf.png
+  #   # notes: Early Accept
 
 
