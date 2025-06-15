@@ -33,14 +33,14 @@ main:
     image: ./assets/img/freemotion.png
     # notes: Early Accept
 
-  # - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
-  #   authors: Zifan Wang*, Jingwei Li*, <strong>Yitang Li</strong>, Yunze Liu (Equal Contribution)
-  #   conference_short: UAI
-  #   conference: The Conference on Uncertainty in Artificial Intelligence, 2025.
-  #   pdf: https://arxiv.org/abs/2505.11386
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # project: https://zzk273.github.io/freemotion.github.io/
-  #   image: ./assets/img/mutualnerf.png
-  #   # notes: Early Accept
+  - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
+    authors: Zifan Wang*, Jingwei Li*, <strong>Yitang Li</strong>, Yunze Liu (Equal Contribution)
+    conference_short: UAI
+    conference: The Conference on Uncertainty in Artificial Intelligence, 2025.
+    pdf: https://arxiv.org/abs/2505.11386
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # project: https://zzk273.github.io/freemotion.github.io/
+    image: ./assets/img/mutualnerf.png
+    # notes: Early Accept
 
 
