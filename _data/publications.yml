@@ -41,7 +41,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.10548
     code: "https://github.com/mxllc/EmbRACE-3K"
     project: "https://mxllc.github.io/EmbRACE-3K"
-    image: ./assets/img/embrace3k.png
+    # image: ./assets/img/embrace3k.png
     # notes: Early Accept
 
   - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
