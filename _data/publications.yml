@@ -33,15 +33,15 @@ main:
     image: ./assets/img/freemotion.png
     # notes: Early Accept
 
-  - title: "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments"
-    authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu,
- Fangwei Zhong, Shengju Qian‡, Xin Wang, Xiaojuan Qi
-    conference_short: In submission
-    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2507.10548
-    code: https://github.com/mxllc/EmbRACE-3K
-    project: https://mxllc.github.io/EmbRACE-3K
-    image: ./assets/img/embrace3k.png
+ #  - title: "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments"
+ #    authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu,
+ # Fangwei Zhong, Shengju Qian‡, Xin Wang, Xiaojuan Qi
+ #    conference_short: In submission
+ #    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+ #    pdf: https://arxiv.org/pdf/2507.10548
+ #    code: https://github.com/mxllc/EmbRACE-3K
+ #    project: https://mxllc.github.io/EmbRACE-3K
+ #    image: ./assets/img/embrace3k.png
     # notes: Early Accept
 
   - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
