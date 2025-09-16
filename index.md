@@ -12,8 +12,8 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 
 ## Research Interests
 
-- **Computer Vision:** physics-based motion synthesis, interaction-centered motion synthesis, vision-languge model, motion structure
-- **Robot Learning:** robot control, reinforcement learning
+- **Computer Vision:** physics-based, interaction-centered motion synthesis; vision-languge model
+- **Robot Learning:** reinforcement learning; robot control; vision-language-action model 
 
 <!-- ## News
 
