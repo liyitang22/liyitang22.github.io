@@ -34,13 +34,12 @@ main:
     # notes: Early Accept
 
   - title: "EmbRACE3K: Embodied Reasoning and Action in Complex Environments"
-    authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu,
- Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
+    authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
     conference_short: In submission
     # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2507.10548
-    # code: "https://github.com/mxllc/EmbRACE-3K"
-    # project: "https://mxllc.github.io/EmbRACE-3K"
+    code: "https://github.com/mxllc/EmbRACE-3K"
+    project: "https://mxllc.github.io/EmbRACE-3K"
     image: ./assets/img/embrace3k.png
     # notes: Early Accept
 
