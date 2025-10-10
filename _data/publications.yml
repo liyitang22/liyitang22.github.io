@@ -23,14 +23,14 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/walk.png
 
-  - title: "HDMI:LearningInteractiveHumanoid Whole-BodyControl fromHumanVideos"
+  - title: "HDMI: Learning Interactive Humanoid Whole-Body Control from HumanVideos"
     authors: Haoyang Weng, <strong>Yitang Li</strong>, Nikhil Sobanbabu, Zihan Wang, Zhengyi Luo, Tairan He, Deva Ramanan, Guanya Shi
     conference_short: In submission
     # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2509.16757
     code: https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file
     project: https://hdmi-humanoid.github.io/#/
-    image: ./assets/img/HDMI.png
+    image: ./assets/img/hdmi.png
     # notes: Early Accept
     
   - title: "FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models"
