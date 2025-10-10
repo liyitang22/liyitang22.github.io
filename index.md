@@ -15,7 +15,7 @@ Email: liyitang22 [at] mails.tsinghua.edu.cn
 ## Research Interests
 
 - **Character Animation** Physics-based and interaction-centered motion synthesis; structured representations of human motion data
-- **Robot Learning:** Humanoid robot learning and control through reinforcement learning; Scaleble skill learning from scalable data.; integrating vision–language–action models to enable embodied intelligence and generalizable behavior
+- **Robot Learning:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Vision–language–action models
 
 <!-- ## News
 
