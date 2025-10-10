@@ -12,8 +12,7 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Beyond academics and research... <em></em> </summary> I am <strong>outgoing and curious, always eager to meet interesting people😊 and through them discover new perspectives</strong> on the world around me🌟. I have often taken the stage as a host, performer, and student representative speaker 🎤🎭 at major university events, and have served as class monitor and seminar organizer, supporting and connecting with my peers 🙋‍♀️. In my free time, I love writing (mostly essays✍️), singing 🎶, dancing 💃, keeping fit 🏋️, and traveling ✈️.
 </details>
-
-##
+<div style="height: 0.5em;"></div>
 
 ## Research Interests
 
