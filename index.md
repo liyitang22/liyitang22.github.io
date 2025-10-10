@@ -10,7 +10,6 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 Beyond academics and research, I am **outgoing and curious, always eager to meet interesting people😊 and through them discover new perspectives** on the world around me🌟. I have often taken the stage as a host, performer, and student representative speaker 🎤🎭 at major university events, and have served as class monitor and seminar organizer, supporting and connecting with my peers 🙋‍♀️. In my free time, I love writing (mostly essays✍️), singing 🎶, dancing 💃, keeping fit 🏋️, and traveling ✈️.
 
 I am currently **seeking a PhD position for Fall 2026** and would love the opportunity to connect and exchange ideas with researchers and peers. 
-Email: liyitang22 [at] mails.tsinghua.edu.cn
 
 ## Research Interests
 
