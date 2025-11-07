@@ -23,8 +23,8 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 ## News
 
 - **[Nov. 2025]** Our paper **BFM-Zero🛡️** is finally released🧘‍♂️! A unified skill space for zero-shot humanoid control across diverse🎨 tasks!
-- **[Sep. 2025]** Our paper **HDMI** is out! Interactive Humanoid Whole-Body Control from Human Videos🎬➡️🤖!
-- **[Sep. 2025]** I will be presenting **Hold My Beer🍺** as a poster at **CoRL 2025** in Seoul, South Korea!
+- **[Sep. 2025]** Our paper **HDMI** is out🎬➡️🤖!
+- **[Sep. 2025]** I will be presenting **Hold My Beer🍺** at **CoRL 2025** in Seoul, South Korea!
 
 
 {% include_relative _includes/publications.md %}
