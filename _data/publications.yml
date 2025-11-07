@@ -35,7 +35,7 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/walk.png
 
-  - title: "HDMI: Learning Interactive Humanoid Whole-Body Control from HumanVideos"
+  - title: "HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos"
     authors: Haoyang Weng, <strong>Yitang Li</strong>, Nikhil Sobanbabu, Zihan Wang, Zhengyi Luo, Tairan He, Deva Ramanan, Guanya Shi
     conference_short: In submission
     # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
