@@ -21,7 +21,7 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 - **Robot Learning🧠➡️🤖:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Vision–language–action models
 
 ## News
-
+- **[Dec. 2025]** 🏆 Awarded the Presidential Scholarship of Tsinghua University (10 undergraduate recipients university-wide)
 - **[Nov. 2025]** Our paper **BFM-Zero🛡️** is finally released🧘‍♂️! A unified skill space for zero-shot humanoid control across diverse🎨 tasks!
 - **[Sep. 2025]** Our paper **HDMI** is out🎬➡️🤖!
 - **[Sep. 2025]** I will be presenting **Hold My Beer🍺** at **CoRL 2025** in Seoul, South Korea!
@@ -30,3 +30,5 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/selected_awards.md %}
+
+{% include_relative _includes/press.md %}
