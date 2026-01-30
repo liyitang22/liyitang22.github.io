@@ -1,8 +1,8 @@
 main:
   - title: "BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning"
     authors: <strong>Yitang Li</strong>*, Zhengyi Luo*, Tonghe Zhang$, Cunxi Dai$, Anssi Kanervisto, Andrea Tirinzoni, Haoyang Weng, Kris Kitani, Mateusz Guzek, Ahmed Touati, Alessandro Lazaric, Matteo Pirotta†, Guanya Shi† (* Equal Contribution; $ Equal Contribution; † Equal Advising)
-    conference_short: In submission
-    # conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2025.
+    conference_short: ICLR
+    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2511.04131
     project: https://lecar-lab.github.io/BFM-Zero/
     code: https://github.com/LeCAR-Lab/BFM-Zero
