@@ -21,7 +21,8 @@ In terms of academic performance, my average GPA is 3.98, <span style="color:dar
 - **Robot Learning🧠➡️🤖:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Vision–language–action models
 
 ## News
-- **[Jan. 2026]** BFM-Zero is accepted to **ICLR 2026** ! See you in Brazil 🇧🇷✨
+- **[Feb. 2026]** BFM-Zero **Training Code** is out! 🛠️✨
+- **[Jan. 2026]** BFM-Zero is accepted to **ICLR 2026** ! See you in Brazil✨
 - **[Jan. 2026]** BFM-Zero **Inference Tutorial & Deployment** 🚀 is out — try it, deploy it, and make it better 🛠️✨
 - **[Dec. 2025]** 🏆 Awarded the Presidential Scholarship of Tsinghua University (10 undergraduate recipients university-wide)
 - **[Nov. 2025]** Our paper **BFM-Zero🛡️** is finally released🧘‍♂️! A unified skill space for zero-shot humanoid control across diverse🎨 tasks!
