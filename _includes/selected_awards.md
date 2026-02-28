@@ -1,4 +1,10 @@
 ## Selected Awards
+<h4 style="margin:0 10px 0;">2025</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a><autocolor>Presidential Scholarship of Tsinghua University(特等奖学金)</autocolor></a><strong> <i style="color:#e74d3c">10 undergraduate recipients university-wide</i></strong></li>
+  <li><a><autocolor>Yao Award (Silver)</autocolor></a><strong> <i style="color:#e74d3c">Highest honor in Yao Class</i></strong></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">2024</h4>
 
