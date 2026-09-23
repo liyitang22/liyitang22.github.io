@@ -9,7 +9,9 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
 <div class="event-list">
   <article class="event-card">
-    <div class="event-figure placeholder">Yao Class</div>
+    <div class="event-figure">
+      <img src="/assets/img/events/yao-class-graduation.jpg" alt="Yitang Li speaking at the Yao Class graduation ceremony">
+    </div>
     <div class="event-body">
       <div class="event-meta">Graduation Speech</div>
       <h3>Yao Class Graduation Representative Speech</h3>
@@ -19,7 +21,9 @@ Selected talks, presentations, and moments I am grateful to have shared.
   </article>
 
   <article class="event-card">
-    <div class="event-figure placeholder">Humanoid</div>
+    <div class="event-figure">
+      <img src="/assets/img/events/humanoid-beijing.png" alt="Poster for humanoid behavioral foundation model sharing">
+    </div>
     <div class="event-body">
       <div class="event-meta">Beijing Meetup</div>
       <h3>Scalable Unsupervised Skill Learning for Humanoid Behavioral Foundation Models</h3>
@@ -29,7 +33,9 @@ Selected talks, presentations, and moments I am grateful to have shared.
   </article>
 
   <article class="event-card">
-    <div class="event-figure placeholder">WRC</div>
+    <div class="event-figure">
+      <img src="/assets/img/events/wrc-roboparty.jpg" alt="Yitang Li presenting at the WRC RoboParty session">
+    </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Motion Control</div>
       <h3>BFM-Zero and Humanoid Skill Learning</h3>
@@ -39,7 +45,9 @@ Selected talks, presentations, and moments I am grateful to have shared.
   </article>
 
   <article class="event-card">
-    <div class="event-figure placeholder">WAIC</div>
+    <div class="event-figure">
+      <img src="/assets/img/events/waic-humanoid.jpg" alt="Yitang Li presenting a personal journey in humanoid research at WAIC">
+    </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Robotics</div>
       <h3>A Personal Journey in Humanoid Research: From Sim2Real Control to Generalizable Skill Learning</h3>
