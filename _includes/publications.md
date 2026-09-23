@@ -3,10 +3,10 @@
 <div class="publications">
 {% assign publication_categories = "Humanoid Robots|Character Animation|Computer Vision" | split: "|" %}
 
-<div class="publication-tabs" role="tablist" aria-label="Publication categories">
+<div class="section-tabs publication-tabs" role="tablist" aria-label="Publication categories">
 {% for category in publication_categories %}
   {% assign category_id = category | downcase | replace: " ", "-" %}
-  <button class="publication-tab{% if forloop.first %} active{% endif %}" type="button" data-category="{{ category_id }}" role="tab" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
+  <button class="section-tab publication-tab{% if forloop.first %} active{% endif %}" type="button" data-category="{{ category_id }}" role="tab" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
     {{ category }}
   </button>
 {% endfor %}
@@ -14,7 +14,7 @@
 
 {% for category in publication_categories %}
 {% assign category_id = category | downcase | replace: " ", "-" %}
-<div class="publication-panel{% if forloop.first %} active{% endif %}" data-category="{{ category_id }}">
+<div class="section-panel publication-panel{% if forloop.first %} active{% endif %}" data-category="{{ category_id }}">
 <ol class="bibliography">
 
 {% assign categorized_publications = site.data.publications.main | where: "category", category %}
@@ -71,17 +71,21 @@
 </div>
 
 <script>
-  document.querySelectorAll('.publication-tab').forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      var selectedCategory = tab.getAttribute('data-category');
-      document.querySelectorAll('.publication-tab').forEach(function(item) {
-        var isActive = item === tab;
-        item.classList.toggle('active', isActive);
-        item.setAttribute('aria-selected', isActive ? 'true' : 'false');
-      });
-      document.querySelectorAll('.publication-panel').forEach(function(panel) {
-        panel.classList.toggle('active', panel.getAttribute('data-category') === selectedCategory);
+  function initializeSectionTabs(tabSelector, panelSelector) {
+    document.querySelectorAll(tabSelector).forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        var selectedCategory = tab.getAttribute('data-category');
+        document.querySelectorAll(tabSelector).forEach(function(item) {
+          var isActive = item === tab;
+          item.classList.toggle('active', isActive);
+          item.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        });
+        document.querySelectorAll(panelSelector).forEach(function(panel) {
+          panel.classList.toggle('active', panel.getAttribute('data-category') === selectedCategory);
+        });
       });
     });
-  });
+  }
+
+  initializeSectionTabs('.publication-tab', '.publication-panel');
 </script>
