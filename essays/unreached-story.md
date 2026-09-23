@@ -7,6 +7,8 @@ permalink: /essays/unreached-story/
 
 <p><em>李忆唐</em></p>
 
+<h3>一、</h3>
+
 <p>“爷爷是四四年出生的，是最苦的年代。中国那时候还是旧社会，物质很贫乏，穿不暖吃不饱，社会也很动荡。后来啊，新中国成立了，解放了，有过一段时间的大发展，有了人民公社。然后呢，然后就文革了，又有自然灾害。再后面迎来改革开放，经济就大发展了。”</p>
 
 <p>爸爸说，爷爷是经历过解放之后最艰难的一段时间的一代人。</p>
@@ -25,7 +27,13 @@ permalink: /essays/unreached-story/
 
 <p>爸爸解释说文革那时候他还小，不太记得啥，具体的细节让我去问奶奶。奶奶却不愿提，她总是坐在木板凳上，沉默良久，然后说“都过去了，都过去了，提那干啥呀。”然后她会拿着刚洗的水果塞我嘴里，堵堵我的嘴。水果是好吃的，在嘴里爆出甜甜的汁水。后来，我也就按下，不再问。</p>
 
-<p class="essay-omission">Contact Yitang for the full text.</p>
+<div class="essay-blur-gate" aria-label="Hidden excerpt">
+  <div class="essay-blur-lines">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+  <a href="mailto:liyitang475@gmail.com?subject=Request%20full%20text%20of%20Unreached%20Story">Contact Yitang for the full text</a>
+</div>
 
 <p>不过，那个坟头我倒是常去。我考上清华的那一年上坟，爸爸摆了次大酒，还让我到祠堂里祭祖。作为族谱入不了，祠堂没进过的女儿身，我一向对这些繁文缛节无感，甚至多少觉得有点荒谬。</p>
 
@@ -34,6 +42,8 @@ permalink: /essays/unreached-story/
 <p>“你爷爷要是活到今天，看到家里出了个这么能读书的，他不知道该有多高兴。”</p>
 
 <p>是啊，不知道该有多高兴。我默念。</p>
+
+<h3>五、</h3>
 
 <p>再后来，我就长大了。长到了二十岁，在清华，选了一门毛中特的课。课上叫我们写一份3500字的家史调研。</p>
 

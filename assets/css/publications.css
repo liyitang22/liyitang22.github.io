@@ -80,15 +80,58 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .essay-actions a:hover { border-color: var(--global-theme-color); background: rgba(0, 45, 114, 0.06); text-decoration: none; }
 
-section > p.essay-omission {
-  border-left: 2px solid rgba(0, 45, 114, 0.24);
-  color: var(--global-text-color-light);
-  font-size: 0.86rem;
-  margin: 1.8rem 0;
-  padding: 0.18rem 0 0.18rem 0.85rem;
+section > p { line-height: 1.72; }
+
+.essay-blur-gate {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(248, 250, 253, 0.86), rgba(248, 250, 253, 0.96));
+  border: 1px solid rgba(0, 45, 114, 0.12);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  margin: 2.2rem 0;
+  min-height: 260px;
+  overflow: hidden;
+  position: relative;
 }
 
-section > p { line-height: 1.72; }
+.essay-blur-lines {
+  filter: blur(5px);
+  inset: 1.4rem;
+  opacity: 0.42;
+  position: absolute;
+}
+
+.essay-blur-lines span {
+  background: rgba(0, 45, 114, 0.2);
+  border-radius: 999px;
+  display: block;
+  height: 0.72rem;
+  margin: 0 0 1.05rem;
+  width: 92%;
+}
+
+.essay-blur-lines span:nth-child(2n) { width: 74%; }
+.essay-blur-lines span:nth-child(3n) { width: 86%; }
+.essay-blur-lines span:nth-child(5n) { width: 63%; }
+
+.essay-blur-gate a {
+  background: var(--global-bg-color);
+  border: 1px solid rgba(0, 45, 114, 0.24);
+  border-radius: 999px;
+  box-shadow: 0 14px 35px rgba(0, 45, 114, 0.12);
+  color: var(--global-theme-color);
+  font-size: 0.9rem;
+  padding: 0.62rem 1rem;
+  position: relative;
+  text-decoration: none;
+  z-index: 1;
+}
+
+.essay-blur-gate a:hover {
+  border-color: var(--global-theme-color);
+  text-decoration: none;
+}
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
