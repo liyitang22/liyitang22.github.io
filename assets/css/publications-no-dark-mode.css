@@ -26,6 +26,18 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
+.publication-tabs { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 1.75rem 0 1rem; }
+
+.publication-tab { background: transparent; border: 1px solid var(--global-text-color-light); border-radius: 4px; color: var(--global-text-color); cursor: pointer; font-family: inherit; font-size: 0.9rem; line-height: 1.2; padding: 0.35rem 0.7rem; }
+
+.publication-tab.active, .publication-tab:hover { border-color: var(--global-theme-color); color: var(--global-theme-color); }
+
+.publication-tab.active { font-weight: 700; }
+
+.publication-panel { display: none; }
+
+.publication-panel.active { display: block; }
+
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
