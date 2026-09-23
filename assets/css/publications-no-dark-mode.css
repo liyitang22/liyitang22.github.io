@@ -62,6 +62,18 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .event-card { grid-template-columns: 1fr; }
 }
 
+.essay-list { margin-top: 1.4rem; }
+
+.essay-entry { border-bottom: 1px solid rgba(0, 45, 114, 0.12); padding-bottom: 1rem; }
+
+.essay-entry h3 { font-size: 1.12rem; margin: 0.1rem 0 0.35rem; }
+
+.essay-entry p { margin: 0; }
+
+.essay-meta { color: var(--global-text-color-light); font-size: 0.78rem; }
+
+section > p { line-height: 1.72; }
+
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
