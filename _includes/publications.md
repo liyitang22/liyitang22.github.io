@@ -1,9 +1,14 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+{% assign publication_categories = "Humanoid Robots|Character Animation|Computer Vision" | split: "|" %}
+
+{% for category in publication_categories %}
+<h3 style="margin: 28px 0 12px;">{{ category }}</h3>
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% assign categorized_publications = site.data.publications.main | where: "category", category %}
+{% for link in categorized_publications %}
 
 <li>
 <div class="pub-row">
@@ -27,6 +32,9 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
+      {% if link.github_stars %}
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-solid fa-star"></i> {{ link.github_stars }}</a>
+      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
@@ -48,4 +56,5 @@
 {% endfor %}
 
 </ol>
+{% endfor %}
 </div>
