@@ -78,6 +78,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .essay-actions a:hover { border-color: var(--global-theme-color); background: rgba(0, 45, 114, 0.06); text-decoration: none; }
 
+section > p.essay-omission {
+  border-left: 2px solid rgba(0, 45, 114, 0.24);
+  color: var(--global-text-color-light);
+  font-size: 0.86rem;
+  margin: 1.8rem 0;
+  padding: 0.18rem 0 0.18rem 0.85rem;
+}
+
 section > p { line-height: 1.72; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
