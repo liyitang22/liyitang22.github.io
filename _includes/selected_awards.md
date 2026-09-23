@@ -1,4 +1,4 @@
-## Selected Awards
+<h2 id="selected-awards">Selected Awards</h2>
 <div class="section-tabs award-tabs" role="tablist" aria-label="Award years">
   <button class="section-tab award-tab active" type="button" data-category="2025" role="tab" aria-selected="true">2025</button>
   <button class="section-tab award-tab" type="button" data-category="2024" role="tab" aria-selected="false">2024</button>
