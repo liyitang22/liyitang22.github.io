@@ -36,25 +36,38 @@
 .sidebar-nav {
   display: flex;
   flex-direction: column;
-  gap: 0.36rem;
-  margin: 0 auto 0.25rem;
-  max-width: 150px;
+  gap: 0.28rem;
+  margin: 0.15rem auto 0.45rem;
+  max-width: 185px;
+  width: 82%;
+}
+
+.sidebar-nav-label {
+  color: #8a96a3;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.18rem 0.2rem;
+  text-align: left;
+  text-transform: uppercase;
 }
 
 .sidebar-nav a {
-  border-left: 2px solid rgba(4, 51, 97, 0.18);
-  color: #5f6f7f;
-  font-size: 0.86rem;
+  background: rgba(4, 51, 97, 0.035);
+  border-left: 3px solid rgba(4, 51, 97, 0.16);
+  border-radius: 0 6px 6px 0;
+  color: #4d6175;
+  font-size: 0.94rem;
   line-height: 1.25;
-  padding: 0.12rem 0 0.12rem 0.55rem;
+  padding: 0.42rem 0.55rem 0.42rem 0.78rem;
   text-align: left;
-  transition: border-color 0.15s ease, color 0.15s ease, padding-left 0.15s ease;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease, padding-left 0.15s ease;
 }
 
 .sidebar-nav a:hover {
+  background: rgba(4, 51, 97, 0.09);
   border-left-color: #043361;
   color: #043361;
-  padding-left: 0.68rem;
+  padding-left: 0.92rem;
 }
 
 .icon-button{
