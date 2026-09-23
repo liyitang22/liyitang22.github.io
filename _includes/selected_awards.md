@@ -18,7 +18,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>National Scholarship.</autocolor></a><strong> <i style="color:#e74d3c">Highest honor for undergraduates</i></strong></li>
-  <li><a><autocolor>SenseTime Scholarship.</autocolor></a></li>
+  <li><a><autocolor>SenseTime Scholarship.</autocolor></a><strong> <i style="color:#e74d3c">25 AI undergraduates nationwide</i></strong></li>
   <li><a><autocolor>Golden Award Team for Summer Social Practice.</autocolor></a><strong> <i style="color:#e74d3c">Only 5 in the entire school</i></strong></li>
 </ul>
 </div>
