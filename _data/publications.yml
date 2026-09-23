@@ -35,7 +35,7 @@ main:
     code: https://github.com/Roboparty/UFO
     github_stars: 278
     project: https://roboparty.github.io/UFO/
-    image: ./assets/img/events/wrc-roboparty.jpg
+    image: ./assets/img/ufo.gif
 
   - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
     category: "Character Animation"
