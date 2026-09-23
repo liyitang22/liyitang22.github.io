@@ -33,6 +33,29 @@
       }
      */
 
+.personal-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.45rem;
+  justify-content: center;
+  margin: -0.65rem auto 1.05rem;
+  max-width: 210px;
+}
+
+.personal-nav a {
+  border-radius: 4px;
+  color: #5f6f7f;
+  font-size: 0.82rem;
+  line-height: 1.2;
+  padding: 0.2rem 0.38rem;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.personal-nav a:hover {
+  background: rgba(4, 51, 97, 0.08);
+  color: #043361;
+}
+
 .icon-button{
   background-color:white;
   border-radius:3.6rem;

@@ -60,6 +60,12 @@
           }, 5000);  // 5000 毫秒 = 5 秒
         </script>
 
+        <nav class="personal-nav" aria-label="Personal writing">
+          <a href="{{ '/events/' | relative_url }}">Events</a>
+          <a href="{{ '/paper-notes/' | relative_url }}">Paper Notes</a>
+          <a href="{{ '/essays/' | relative_url }}">Essays</a>
+        </nav>
+
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
