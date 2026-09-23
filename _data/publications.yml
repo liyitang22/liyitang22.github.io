@@ -27,6 +27,16 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/softa.png
 
+  - title: "UFO: A General Unsupervised Reinforcement Learning Framework for Humanoid Control"
+    category: "Humanoid Robots"
+    authors: <strong>Yitang Li</strong>*, Xue Wang*, Yaojie Shen, Zhihao Liu, Siqin Wang, Yiming Zhang, Haoyang Weng, Jia Li, Lei Ye, Yongqi Zhang, Ziqi Han, Hao Zhao (* Equal Contribution)
+    conference_short: In submission
+    conference: In submission.
+    code: https://github.com/Roboparty/UFO
+    github_stars: 278
+    project: https://roboparty.github.io/UFO/
+    image: ./assets/img/events/wrc-roboparty.jpg
+
   - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
     category: "Character Animation"
     authors: <strong>Yitang Li</strong>*, Mingxian Lin*, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi (Equal Contribution)
