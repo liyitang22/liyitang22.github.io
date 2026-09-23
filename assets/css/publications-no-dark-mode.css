@@ -72,6 +72,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .essay-meta { color: var(--global-text-color-light); font-size: 0.78rem; }
 
+.essay-actions { border-top: 1px solid rgba(0, 45, 114, 0.12); display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 2rem; padding-top: 1rem; }
+
+.essay-actions a { border: 1px solid rgba(0, 45, 114, 0.32); border-radius: 5px; color: var(--global-theme-color); font-size: 0.86rem; padding: 0.28rem 0.58rem; }
+
+.essay-actions a:hover { border-color: var(--global-theme-color); background: rgba(0, 45, 114, 0.06); text-decoration: none; }
+
 section > p { line-height: 1.72; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }

@@ -32,3 +32,9 @@ permalink: /essays/acknowledgements/
 车厢里开始骚动，人们站起来拿行李。我排在队伍里，等着门开。我终于从那个听见火车就安心的人，变成了听见风声也敢迈步的人。感谢所有在站台上送过我、在旷野中陪过我、在寂静里听见我的人。感谢每一位陪我走到这里的人——从前我依赖铁轨，如今我信任旷野。
 
 火车停了，门开了，旷野在面前铺展开来。
+
+<div class="essay-actions">
+  <a href="/assets/files/essays/acknowledgements.pdf" target="_blank" rel="noopener">Download PDF</a>
+  <a href="mailto:liyitang475@gmail.com?subject=Comment%20on%20%E8%87%B4%E8%B0%A2">Leave comment</a>
+  <a href="/essays/">Back</a>
+</div>
