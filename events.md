@@ -5,6 +5,45 @@ permalink: /events/
 
 ## Events
 
-Selected moments from talks, presentations, seminars, performances, and gatherings.
+Selected talks, presentations, and moments I am grateful to have shared.
 
-More updates soon.
+<div class="event-list">
+  <article class="event-card">
+    <div class="event-figure placeholder">Yao Class</div>
+    <div class="event-body">
+      <div class="event-meta">Graduation Speech</div>
+      <h3>Yao Class Graduation Representative Speech</h3>
+      <p>Standing on the shoulders of giants.</p>
+      <a href="https://www.xiaohongshu.com/discovery/item/6a3caa7e000000001603f175?source=webshare&xhsshare=pc_web&xsec_token=ABfFkFxz-jz0bzbLQDyJvw5Uw_vkzoMmLqC6rvHHQPZgs=&xsec_source=pc_share" target="_blank" rel="noopener">View post</a>
+    </div>
+  </article>
+
+  <article class="event-card">
+    <div class="event-figure placeholder">Humanoid</div>
+    <div class="event-body">
+      <div class="event-meta">Beijing Meetup</div>
+      <h3>Scalable Unsupervised Skill Learning for Humanoid Behavioral Foundation Models</h3>
+      <p>Invited sharing at an offline humanoid robotics session in Beijing.</p>
+      <a href="https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJ9DtGqjN9QxuhAKN5chvPsIrphfhMuTx9Fs5JGD&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS1c0cgBY96t37xCYuXMCdQ" target="_blank" rel="noopener">View post</a>
+    </div>
+  </article>
+
+  <article class="event-card">
+    <div class="event-figure placeholder">WRC</div>
+    <div class="event-body">
+      <div class="event-meta">Humanoid Motion Control</div>
+      <h3>BFM-Zero and Humanoid Skill Learning</h3>
+      <p>Sharing on humanoid robot motion control and behavioral foundation models at WRC.</p>
+      <a href="https://www.xiaohongshu.com/discovery/item/6a951bad000000001f01c4a6?source=webshare&xhsshare=pc_web&xsec_token=ABG0jps3dSdBOG32oRwSewyYvOtPW7tcICg4bGvgLqXKY=&xsec_source=pc_share" target="_blank" rel="noopener">View post</a>
+    </div>
+  </article>
+
+  <article class="event-card">
+    <div class="event-figure placeholder">WAIC</div>
+    <div class="event-body">
+      <div class="event-meta">Humanoid Robotics</div>
+      <h3>A Personal Journey in Humanoid Research: From Sim2Real Control to Generalizable Skill Learning</h3>
+      <p>Reflections on research progress from sim-to-real control toward scalable skill learning.</p>
+    </div>
+  </article>
+</div>

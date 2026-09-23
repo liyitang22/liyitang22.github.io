@@ -40,6 +40,30 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .section-panel.active { display: block; }
 
+.event-list { display: grid; gap: 1rem; margin-top: 1.4rem; }
+
+.event-card { align-items: stretch; border-bottom: 1px solid rgba(0, 45, 114, 0.12); display: grid; gap: 1rem; grid-template-columns: 170px 1fr; padding: 0 0 1rem; }
+
+.event-figure { align-items: center; aspect-ratio: 4 / 3; border-radius: 7px; display: flex; justify-content: center; overflow: hidden; }
+
+.event-figure.placeholder { background: linear-gradient(135deg, rgba(0, 45, 114, 0.08), rgba(36, 150, 203, 0.16)); color: var(--global-theme-color); font-size: 0.82rem; font-weight: 700; letter-spacing: 0; }
+
+.event-figure img { height: 100%; object-fit: cover; width: 100%; }
+
+.event-body { min-width: 0; }
+
+.event-meta { color: var(--global-text-color-light); font-size: 0.78rem; margin-bottom: 0.2rem; }
+
+.event-card h3 { font-size: 1.05rem; line-height: 1.25; margin: 0 0 0.35rem; }
+
+.event-card p { margin: 0 0 0.45rem; }
+
+.event-card a { font-size: 0.86rem; }
+
+@media print, screen and (max-width: 640px) {
+.event-card { grid-template-columns: 1fr; }
+}
+
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
