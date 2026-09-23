@@ -127,6 +127,10 @@
       </header>
       <section>
 
+      {% unless page.url == "/" %}
+      <a class="back-about-link" href="{{ '/' | relative_url }}">Back to About Me</a>
+      {% endunless %}
+
       {{ content }}
 
       <br>

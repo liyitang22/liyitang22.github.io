@@ -73,6 +73,24 @@
   padding-left: 0.92rem;
 }
 
+.back-about-link {
+  color: #6d7f91;
+  display: inline-flex;
+  font-size: 0.86rem;
+  margin-bottom: 1.35rem;
+  text-decoration: none;
+}
+
+.back-about-link::before {
+  content: "←";
+  margin-right: 0.35rem;
+}
+
+.back-about-link:hover {
+  color: #043361;
+  text-decoration: none;
+}
+
 .icon-button{
   background-color:white;
   border-radius:3.6rem;
