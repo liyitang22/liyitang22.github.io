@@ -9,6 +9,13 @@ Notes, reflections, and occasional field reports on research, PhD life, and ques
 
 <div class="thought-list">
   <article class="thought-entry">
+    <div class="essay-meta">WeChat Article</div>
+    <h3>Research and Life Notes</h3>
+    <p>A longer-form note shared on WeChat.</p>
+    <a href="https://mp.weixin.qq.com/s/NDs_UGA7cOYB8dUF7zPEcA" target="_blank" rel="noopener">View post</a>
+  </article>
+
+  <article class="thought-entry">
     <div class="essay-meta">Research Reflection</div>
     <h3>三个月之后再谈最喜欢的 BFM-Zero</h3>
     <p>A follow-up reflection on BFM-Zero after ICLR acceptance.</p>
