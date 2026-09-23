@@ -3,7 +3,7 @@ layout: homepage
 permalink: /events/
 ---
 
-## Events
+<h2>Events</h2>
 
 Selected talks, presentations, and moments I am grateful to have shared.
 
