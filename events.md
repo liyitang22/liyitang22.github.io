@@ -10,7 +10,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 <div class="event-list">
   <article class="event-card">
     <div class="event-figure">
-      <img src="/assets/img/events/yao-class-graduation.jpg" alt="Yitang Li speaking at the Yao Class graduation ceremony">
+      <img src="{{ '/assets/img/events/yao-class-graduation.jpg' | relative_url }}" alt="Yitang Li speaking at the Yao Class graduation ceremony">
     </div>
     <div class="event-body">
       <div class="event-meta">Graduation Speech</div>
@@ -22,7 +22,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="/assets/img/events/humanoid-beijing.png" alt="Poster for humanoid behavioral foundation model sharing">
+      <img src="{{ '/assets/img/events/humanoid-beijing.png' | relative_url }}" alt="Poster for humanoid behavioral foundation model sharing">
     </div>
     <div class="event-body">
       <div class="event-meta">Beijing Meetup</div>
@@ -34,7 +34,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="/assets/img/events/wrc-roboparty.jpg" alt="Yitang Li presenting at the WRC RoboParty session">
+      <img src="{{ '/assets/img/events/wrc-roboparty.jpg' | relative_url }}" alt="Yitang Li presenting at the WRC RoboParty session">
     </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Motion Control</div>
@@ -46,7 +46,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="/assets/img/events/waic-humanoid.jpg" alt="Yitang Li presenting a personal journey in humanoid research at WAIC">
+      <img src="{{ '/assets/img/events/waic-humanoid.jpg' | relative_url }}" alt="Yitang Li presenting a personal journey in humanoid research at WAIC">
     </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Robotics</div>
