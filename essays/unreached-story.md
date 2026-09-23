@@ -27,6 +27,12 @@ permalink: /essays/unreached-story/
 
 <p>爸爸解释说文革那时候他还小，不太记得啥，具体的细节让我去问奶奶。奶奶却不愿提，她总是坐在木板凳上，沉默良久，然后说“都过去了，都过去了，提那干啥呀。”然后她会拿着刚洗的水果塞我嘴里，堵堵我的嘴。水果是好吃的，在嘴里爆出甜甜的汁水。后来，我也就按下，不再问。</p>
 
+<h3>二、</h3>
+
+<p>在这个角度上看，我觉得，奶奶应当是和外婆有着不少共同语言的。</p>
+
+<p>因为恰巧，外婆也有五个孩子，妈妈也排行老四。外婆生下大舅舅之后，接连生下了三个女儿，然后又有了个小儿子，我唤作小舅舅。</p>
+
 <div class="essay-blur-gate" aria-label="Hidden excerpt">
   <div class="essay-blur-lines">
     <span></span><span></span><span></span><span></span><span></span>
