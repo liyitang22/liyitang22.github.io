@@ -28,15 +28,13 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
-.publication-tabs { align-items: center; background: rgba(0, 45, 114, 0.06); border: 1px solid rgba(0, 45, 114, 0.16); border-radius: 7px; display: inline-flex; flex-wrap: wrap; gap: 0.2rem; margin: 1.75rem 0 1.2rem; padding: 0.2rem; }
+.publication-tabs { align-items: baseline; border-bottom: 1px solid rgba(0, 45, 114, 0.14); display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.65rem 0 1.2rem; }
 
-.publication-tab { background: transparent; border: 0; border-radius: 5px; color: var(--global-text-color); cursor: pointer; font-family: inherit; font-size: 0.86rem; line-height: 1.2; padding: 0.42rem 0.72rem; transition: background-color 0.15s ease, box-shadow 0.15s ease, color 0.15s ease; }
+.publication-tab { background: transparent; border: 0; border-bottom: 2px solid transparent; color: var(--global-text-color-light); cursor: pointer; font-family: inherit; font-size: 0.9rem; line-height: 1.2; margin-bottom: -1px; padding: 0 0 0.42rem; transition: border-color 0.15s ease, color 0.15s ease; }
 
-.publication-tab:hover { background: rgba(0, 45, 114, 0.1); color: var(--global-theme-color); }
+.publication-tab:hover { color: var(--global-theme-color); }
 
-.publication-tab.active { background: var(--global-theme-color); box-shadow: 0 2px 6px rgba(0, 45, 114, 0.22); color: #ffffff; font-weight: 700; }
-
-.publication-tab.active:hover { color: #ffffff; }
+.publication-tab.active { border-bottom-color: var(--global-theme-color); color: var(--global-theme-color); font-weight: 700; }
 
 .publication-panel { display: none; }
 
