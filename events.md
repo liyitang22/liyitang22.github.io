@@ -10,7 +10,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 <div class="event-list">
   <article class="event-card">
     <div class="event-figure">
-      <img src="{{ '/assets/img/events/yao-class-graduation.jpg' | relative_url }}" alt="Yitang Li speaking at the Yao Class graduation ceremony">
+      <img src="/assets/img/events/yao-class-graduation.jpg" alt="Yitang Li speaking at the Yao Class graduation ceremony">
     </div>
     <div class="event-body">
       <div class="event-meta">Graduation Speech</div>
@@ -22,7 +22,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="{{ '/assets/img/events/humanoid-beijing.png' | relative_url }}" alt="Poster for humanoid behavioral foundation model sharing">
+      <img src="/assets/img/events/humanoid-beijing.png" alt="Poster for humanoid behavioral foundation model sharing">
     </div>
     <div class="event-body">
       <div class="event-meta">Beijing Meetup</div>
@@ -34,7 +34,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="{{ '/assets/img/events/wrc-roboparty.jpg' | relative_url }}" alt="Yitang Li presenting at the WRC RoboParty session">
+      <img src="/assets/img/events/wrc-roboparty.jpg" alt="Yitang Li presenting at the WRC RoboParty session">
     </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Motion Control</div>
@@ -46,12 +46,13 @@ Selected talks, presentations, and moments I am grateful to have shared.
 
   <article class="event-card">
     <div class="event-figure">
-      <img src="{{ '/assets/img/events/waic-humanoid.jpg' | relative_url }}" alt="Yitang Li presenting a personal journey in humanoid research at WAIC">
+      <img src="/assets/img/events/waic-humanoid.jpg" alt="Yitang Li presenting a personal journey in humanoid research at WAIC">
     </div>
     <div class="event-body">
       <div class="event-meta">Humanoid Robotics</div>
       <h3>A Personal Journey in Humanoid Research: From Sim2Real Control to Generalizable Skill Learning</h3>
       <p>Reflections on research progress from sim-to-real control toward scalable skill learning.</p>
+      <a href="https://docs.google.com/presentation/d/1SH1cl6Vjrm3DChZxi_1s8TPtexJe2vyi/edit?usp=sharing&ouid=114402436587088147952&rtpof=true&sd=true" target="_blank" rel="noopener">View PPT</a>
     </div>
   </article>
 </div>
