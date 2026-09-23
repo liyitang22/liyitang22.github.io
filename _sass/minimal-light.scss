@@ -65,10 +65,13 @@
 }
 
 .sidebar-nav-label {
-  color: #8a96a3;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  margin: 0 0 0.18rem 0.2rem;
+  border-bottom: 1px solid rgba(4, 51, 97, 0.18);
+  color: #043361;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  margin: 0 0 0.34rem 0;
+  padding: 0 0 0.32rem 0.2rem;
   text-align: left;
   text-transform: uppercase;
 }
@@ -218,7 +221,8 @@ papertitle {
     }
 
     .sidebar-nav-label {
-      color:#8190a0;
+      border-bottom-color: rgba(62, 183, 240, 0.24);
+      color:rgb(62, 183, 240);
     }
 
     .sidebar-nav a {
