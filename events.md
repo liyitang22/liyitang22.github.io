@@ -52,7 +52,7 @@ Selected talks, presentations, and moments I am grateful to have shared.
       <div class="event-meta">Humanoid Robotics</div>
       <h3>A Personal Journey in Humanoid Research: From Sim2Real Control to Generalizable Skill Learning</h3>
       <p>Reflections on research progress from sim-to-real control toward scalable skill learning.</p>
-      <a href="https://docs.google.com/presentation/d/1SH1cl6Vjrm3DChZxi_1s8TPtexJe2vyi/edit?usp=sharing&ouid=114402436587088147952&rtpof=true&sd=true" target="_blank" rel="noopener">View PPT</a>
+      <a href="https://drive.google.com/file/d/1SH1cl6Vjrm3DChZxi_1s8TPtexJe2vyi/view?usp=sharing" target="_blank" rel="noopener">View on Drive</a>
     </div>
   </article>
 </div>
