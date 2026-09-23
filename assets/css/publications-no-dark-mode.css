@@ -82,13 +82,12 @@ section > p { line-height: 1.72; }
 
 .essay-blur-gate {
   align-items: center;
-  background: linear-gradient(180deg, rgba(248, 250, 253, 0.86), rgba(248, 250, 253, 0.96));
-  border: 1px solid rgba(0, 45, 114, 0.12);
-  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(248, 250, 253, 0), rgba(248, 250, 253, 0.78) 22%, rgba(248, 250, 253, 0.82) 78%, rgba(248, 250, 253, 0));
+  border-radius: 6px;
   display: flex;
   justify-content: center;
-  margin: 2.2rem 0;
-  min-height: 260px;
+  margin: 2.4rem 0;
+  min-height: 300px;
   overflow: hidden;
   position: relative;
 }
@@ -115,9 +114,9 @@ section > p { line-height: 1.72; }
 
 .essay-blur-gate a {
   background: var(--global-bg-color);
-  border: 1px solid rgba(0, 45, 114, 0.24);
+  border: 1px solid rgba(0, 45, 114, 0.16);
   border-radius: 999px;
-  box-shadow: 0 14px 35px rgba(0, 45, 114, 0.12);
+  box-shadow: 0 14px 35px rgba(0, 45, 114, 0.1);
   color: var(--global-theme-color);
   font-size: 0.9rem;
   padding: 0.62rem 1rem;
