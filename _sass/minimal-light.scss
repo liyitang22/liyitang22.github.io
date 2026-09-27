@@ -129,16 +129,28 @@
 }
 
 .visitor-map {
-  display: inline-block;
-  line-height: 0;
+  background: linear-gradient(180deg, rgba(4, 51, 97, 0.04), rgba(4, 51, 97, 0.08));
+  border-radius: 8px;
+  display: block;
   margin-bottom: 0.45rem;
   max-width: 100%;
+  overflow: hidden;
+  width: 320px;
 }
 
-.visitor-map img {
-  border: 0;
-  border-radius: 6px;
-  max-width: 100%;
+.visitor-map svg {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.visitor-map path {
+  fill: rgba(4, 51, 97, 0.16);
+}
+
+.visitor-map circle {
+  fill: #043361;
+  opacity: 0.78;
 }
 
 .visitor-count {
