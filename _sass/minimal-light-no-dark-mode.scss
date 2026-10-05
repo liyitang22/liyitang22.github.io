@@ -107,28 +107,17 @@
 }
 
 .visitor-map {
-  background: linear-gradient(180deg, rgba(4, 51, 97, 0.04), rgba(4, 51, 97, 0.08));
-  border-radius: 8px;
-  display: block;
+  display: flex;
+  justify-content: flex-start;
   margin-bottom: 0.45rem;
   max-width: 100%;
-  overflow: hidden;
-  width: 320px;
 }
 
-.visitor-map svg {
-  display: block;
-  height: auto;
-  width: 100%;
-}
-
-.visitor-map path {
-  fill: rgba(4, 51, 97, 0.16);
-}
-
-.visitor-map circle {
-  fill: #043361;
-  opacity: 0.78;
+.visitor-map iframe,
+.visitor-map canvas,
+.visitor-map img,
+.visitor-map object {
+  max-width: 100%;
 }
 
 .visitor-count {
