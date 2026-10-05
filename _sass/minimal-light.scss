@@ -113,44 +113,6 @@
   text-decoration: none;
 }
 
-.visitor-panel {
-  border-top: 1px solid rgba(4, 51, 97, 0.12);
-  color: #6d7f91;
-  font-size: 0.82rem;
-  margin-top: 2.2rem;
-  padding-top: 1rem;
-}
-
-.visitor-panel-title {
-  color: #043361;
-  font-size: 0.86rem;
-  font-weight: 700;
-  margin-bottom: 0.55rem;
-}
-
-.visitor-map {
-  display: flex;
-  justify-content: flex-start;
-  margin-bottom: 0.45rem;
-  max-width: 100%;
-}
-
-.visitor-map iframe,
-.visitor-map canvas,
-.visitor-map img,
-.visitor-map object {
-  max-width: 100%;
-}
-
-.visitor-count {
-  line-height: 1.5;
-}
-
-#busuanzi_value_site_pv {
-  color: #043361;
-  font-weight: 700;
-}
-
 .icon-button{
   background-color:white;
   border-radius:3.6rem;

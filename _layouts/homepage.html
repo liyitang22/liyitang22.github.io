@@ -136,21 +136,6 @@
 
       <br>
 
-      <div class="visitor-panel" aria-label="Visitor statistics">
-        <div class="visitor-panel-title">Visitor Map</div>
-        <div class="visitor-map">
-          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5v0liyitang22&amp;m=7&amp;c=002d72&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;v0=20&amp;z=11" async="async"></script>
-          <noscript>
-            <a href="https://www.revolvermaps.com/" target="_blank" rel="noopener">Visitor map</a>
-          </noscript>
-        </div>
-        <div class="visitor-count">
-          Since October 2026, this site has been viewed
-          <span id="busuanzi_value_site_pv">loading</span>
-          times.
-        </div>
-      </div>
-
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
@@ -161,15 +146,6 @@
       </footer>
     </div>
     <script src="/assets/js/scale.fix.js?v={{ site.time | date: '%s' }}"></script>
-    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <script>
-      window.setTimeout(function() {
-        var pageViews = document.getElementById('busuanzi_value_site_pv');
-        if (pageViews && pageViews.textContent.trim() === 'loading') {
-          pageViews.textContent = 'many';
-        }
-      }, 5000);
-    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
