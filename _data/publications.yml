@@ -15,9 +15,10 @@ main:
 
   - title: "PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control"
     category: "Humanoid Robots"
-    authors: Anonymous Authors
+    authors: Lei Ye, Haibo Gao, <strong>Yitang Li</strong>, Peng Xu, Zetong Jing, Junhan Sun, Fanrong Dong, Ziqi Han, Xue Wang, Jianhua Sun, Cewu Lu, Hao Zhao, Liang Ding
     conference_short: In submission
     conference: In submission.
+    pdf: https://arxiv.org/pdf/2609.24840
     project: https://masteryip.github.io/predactor.github.io/
     image: ./assets/img/predactor.jpg
 
