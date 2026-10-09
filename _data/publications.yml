@@ -13,6 +13,15 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/bfm0.gif
 
+  - title: "I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning"
+    category: "Humanoid Robots"
+    authors: Ziqi Han*, <span class="first-author-highlight">Yitang Li*</span>, Junhan Sun*, Fanrong Dong, Yaojie Shen, Lei Ye, Zetong Jing, Yongqi Zhang, Yiming Zhang, Xue Wang, Hao Zhao (* Equal Contribution; † Corresponding Author)
+    conference_short: In submission
+    conference: In submission.
+    pdf: https://arxiv.org/pdf/2610.06129
+    project: https://iamhardworking.github.io/I-BFM/
+    image: ./assets/img/ibfm.jpg
+
   - title: "PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control"
     category: "Humanoid Robots"
     authors: Lei Ye, Haibo Gao, <strong>Yitang Li</strong>, Peng Xu, Zetong Jing, Junhan Sun, Fanrong Dong, Ziqi Han, Xue Wang, Jianhua Sun, Cewu Lu, Hao Zhao, Liang Ding
