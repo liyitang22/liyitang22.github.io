@@ -21,7 +21,7 @@ main:
     pdf: https://arxiv.org/pdf/2609.24840
     code: https://github.com/MasterYip/PredActor
     project: https://masteryip.github.io/predactor.github.io/
-    image: ./assets/img/predactor.jpg
+    image: ./assets/img/predactor.png
 
   - title: "UFO: A General Unsupervised Reinforcement Learning Framework for Humanoid Control"
     category: "Humanoid Robots"
