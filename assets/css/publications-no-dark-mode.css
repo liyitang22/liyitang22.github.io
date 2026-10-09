@@ -40,6 +40,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .github-stars.pending { display: none; }
 
+.first-author-highlight {
+  background: rgba(255, 184, 28, 0.22);
+  border-radius: 4px;
+  color: var(--global-theme-color);
+  font-weight: 700;
+  padding: 0.02rem 0.18rem;
+}
+
 .project-list { display: grid; gap: 1rem; margin-top: 1.4rem; }
 
 .project-card {
