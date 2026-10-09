@@ -36,4 +36,6 @@ I am a first-year PhD student in Computer Science at **Stanford University**, wo
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/selected_awards.md %}

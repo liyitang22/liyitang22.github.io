@@ -40,6 +40,62 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .github-stars.pending { display: none; }
 
+.project-list { display: grid; gap: 1rem; margin-top: 1.4rem; }
+
+.project-card {
+  align-items: start;
+  border-bottom: 1px solid rgba(0, 45, 114, 0.12);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 210px minmax(0, 1fr);
+  padding: 0 0 1rem;
+}
+
+.project-card.pinned {
+  border-bottom-color: rgba(0, 45, 114, 0.18);
+}
+
+.project-figure {
+  aspect-ratio: 16 / 9;
+  background: rgba(0, 45, 114, 0.04);
+  border-radius: 7px;
+  display: block;
+  overflow: hidden;
+}
+
+.project-figure img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.project-body { min-width: 0; }
+
+.project-meta {
+  color: var(--global-text-color-light);
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.78rem;
+  gap: 0.45rem;
+  margin-bottom: 0.2rem;
+}
+
+.project-meta span {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}
+
+.project-card h3 {
+  font-size: 1.05rem;
+  line-height: 1.25;
+  margin: 0 0 0.35rem;
+}
+
+.project-card p { margin: 0 0 0.45rem; }
+
+.project-card a { font-size: 0.86rem; }
+
 .event-list { display: grid; gap: 1rem; margin-top: 1.4rem; }
 
 .event-card { align-items: start; border-bottom: 1px solid rgba(0, 45, 114, 0.12); display: grid; gap: 1rem; grid-template-columns: 210px minmax(0, 1fr); padding: 0 0 1rem; }
@@ -62,6 +118,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (max-width: 640px) {
 .event-card { grid-template-columns: 1fr; }
+.project-card { grid-template-columns: 1fr; }
 }
 
 .essay-list { margin-top: 1.4rem; }

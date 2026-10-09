@@ -1,0 +1,44 @@
+main:
+  - title: "BFM-Zero"
+    subtitle: "A promptable behavioral foundation model for humanoid control."
+    date: "2026-02"
+    badge: "Pinned"
+    pinned: true
+    url: https://lecar-lab.github.io/BFM-Zero/
+    image: ./assets/img/bfm0.gif
+
+  - title: "PredActor"
+    subtitle: "Predictive action diffusion for steerable onboard humanoid control."
+    date: "2026-10"
+    url: https://masteryip.github.io/predactor.github.io/
+    image: ./assets/img/predactor.jpg
+
+  - title: "UFO"
+    subtitle: "A general unsupervised reinforcement learning framework for humanoid control."
+    date: "2026-10"
+    url: https://roboparty.github.io/UFO/
+    image: ./assets/img/ufo.gif
+
+  - title: "HDMI"
+    subtitle: "Interactive humanoid whole-body control from human videos."
+    date: "2025-09"
+    url: https://hdmi-humanoid.github.io/#/
+    image: ./assets/img/hdmi.png
+
+  - title: "Hold My Beer"
+    subtitle: "Gentle humanoid locomotion and end-effector stabilization control."
+    date: "2025-05"
+    url: https://lecar-lab.github.io/SoFTA/
+    image: ./assets/img/softa.png
+
+  - title: "PhysReachGrasp"
+    subtitle: "Physics-based full-body human reaching and grasping from brief walking references."
+    date: "2025-03"
+    url: https://liyitang22.github.io/phys-reach-grasp/
+    image: ./assets/img/walk.png
+
+  - title: "FreeMotion"
+    subtitle: "MoCap-free human motion synthesis with multimodal large language models."
+    date: "2024-06"
+    url: https://zzk273.github.io/freemotion.github.io/
+    image: ./assets/img/freemotion.png
