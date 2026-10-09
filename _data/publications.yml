@@ -19,6 +19,7 @@ main:
     conference_short: In submission
     conference: In submission.
     pdf: https://arxiv.org/pdf/2609.24840
+    code: https://github.com/MasterYip/PredActor
     project: https://masteryip.github.io/predactor.github.io/
     image: ./assets/img/predactor.jpg
 
