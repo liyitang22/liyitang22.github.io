@@ -40,6 +40,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .section-panel.active { display: block; }
 
+.github-stars.pending { display: none; }
+
 .event-list { display: grid; gap: 1rem; margin-top: 1.4rem; }
 
 .event-card { align-items: start; border-bottom: 1px solid rgba(0, 45, 114, 0.12); display: grid; gap: 1rem; grid-template-columns: 210px minmax(0, 1fr); padding: 0 0 1rem; }

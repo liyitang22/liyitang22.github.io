@@ -43,8 +43,10 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.github_stars %}
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-solid fa-star"></i> {{ link.github_stars }}</a>
+      {% if link.code and link.code contains "github.com" %}
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0 github-stars{% unless link.github_stars %} pending{% endunless %}" role="button" target="_blank" style="font-size:12px;" data-github-url="{{ link.code }}" data-fallback-stars="{{ link.github_stars | default: '' }}">
+        <i class="fa-solid fa-star"></i> <span class="github-star-count">{% if link.github_stars %}{{ link.github_stars }}{% else %}...{% endif %}</span>
+      </a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -89,4 +91,52 @@
   }
 
   initializeSectionTabs('.publication-tab', '.publication-panel');
+
+  function parseGitHubRepo(url) {
+    try {
+      var parsed = new URL(url);
+      if (parsed.hostname !== 'github.com') return null;
+      var parts = parsed.pathname.split('/').filter(Boolean);
+      if (parts.length < 2) return null;
+      return parts[0] + '/' + parts[1];
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function formatStars(count) {
+    if (count >= 1000) {
+      return (Math.round(count / 100) / 10).toString().replace(/\.0$/, '') + 'k';
+    }
+    return String(count);
+  }
+
+  document.querySelectorAll('.github-stars').forEach(function(item) {
+    var repo = parseGitHubRepo(item.getAttribute('data-github-url'));
+    var fallback = parseInt(item.getAttribute('data-fallback-stars'), 10);
+    if (!repo) return;
+
+    fetch('https://api.github.com/repos/' + repo)
+      .then(function(response) {
+        if (!response.ok) throw new Error('GitHub API unavailable');
+        return response.json();
+      })
+      .then(function(data) {
+        var count = data.stargazers_count || 0;
+        if (count > 100) {
+          item.classList.remove('pending');
+          item.querySelector('.github-star-count').textContent = formatStars(count);
+        } else {
+          item.remove();
+        }
+      })
+      .catch(function() {
+        if (Number.isFinite(fallback) && fallback > 100) {
+          item.classList.remove('pending');
+          item.querySelector('.github-star-count').textContent = formatStars(fallback);
+        } else {
+          item.remove();
+        }
+      });
+  });
 </script>
