@@ -28,6 +28,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
+.github-project-summary { align-items: baseline; color: var(--global-text-color-light); display: flex; flex-wrap: wrap; font-size: 0.9rem; gap: 0.32rem; margin: -1.15rem 0 1rem; }
+
+.github-project-summary .fa-star { color: #c28a16; }
+
+.github-project-summary strong { color: var(--global-theme-color); }
+
 .section-tabs { align-items: baseline; border-bottom: 1px solid rgba(0, 45, 114, 0.14); display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.65rem 0 1.2rem; }
 
 .section-tab { background: transparent; border: 0; border-bottom: 2px solid transparent; color: var(--global-text-color-light); cursor: pointer; font-family: inherit; font-size: 0.9rem; line-height: 1.2; margin-bottom: -1px; padding: 0 0 0.42rem; transition: border-color 0.15s ease, color 0.15s ease; }

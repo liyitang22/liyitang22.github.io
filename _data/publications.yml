@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2511.04131
     project: https://lecar-lab.github.io/BFM-Zero/
     code: https://github.com/LeCAR-Lab/BFM-Zero
-    github_stars: 790
+    github_stars: 809
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
@@ -21,7 +21,6 @@ main:
     pdf: https://arxiv.org/pdf/2610.06129
     code: https://github.com/Roboparty/I-BFM-Code
     github_stars: 19
-    show_github_stars: true
     project: https://iamhardworking.github.io/I-BFM/
     image: ./assets/img/ibfm.jpg
 
@@ -32,6 +31,7 @@ main:
     conference: In submission.
     pdf: https://arxiv.org/pdf/2609.24840
     code: https://github.com/MasterYip/PredActor
+    github_stars: 50
     project: https://masteryip.github.io/predactor.github.io/
     image: ./assets/img/predactor.png
 
@@ -42,7 +42,7 @@ main:
     conference: In submission.
     pdf: https://roboparty.github.io/UFO/assets/UFO.pdf
     code: https://github.com/Roboparty/UFO
-    github_stars: 278
+    github_stars: 307
     project: https://roboparty.github.io/UFO/
     image: ./assets/img/ufo.gif
 
@@ -53,7 +53,7 @@ main:
     # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2509.16757
     code: https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file
-    github_stars: 664
+    github_stars: 672
     project: https://hdmi-humanoid.github.io/#/
     image: ./assets/img/hdmi.png
     # notes: Early Accept
@@ -80,6 +80,7 @@ main:
     pdf: http://arxiv.org/abs/2503.07481
     project: https://liyitang22.github.io/phys-reach-grasp/
     code: https://github.com/liyitang22/phys-reach-grasp
+    github_stars: 16
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
@@ -103,6 +104,7 @@ main:
     conference: arXiv preprint <strong>(arXiv:2606.09826)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2606.09826
     code: https://github.com/mxlin043/OmniGameArena
+    github_stars: 45
     project: https://mxlin043.github.io/OmniGameArena/
     image: ./assets/img/omnigamearena.png
 
@@ -112,6 +114,7 @@ main:
     conference_short: In submission
     pdf: https://arxiv.org/pdf/2507.10548
     code: https://github.com/mxlin043/EmbRACE
+    github_stars: 8
     project: https://mxlin043.github.io/EmbRACE/
     huggingface: https://huggingface.co/datasets/mxlin043/EmbRACE
     image: ./assets/img/embrace3k.png
