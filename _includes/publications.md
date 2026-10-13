@@ -54,6 +54,9 @@
       {% if link.project %} 
       <a href="{{ link.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       {% endif %}
+      {% if link.huggingface %}
+      <a href="{{ link.huggingface }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Hugging Face</a>
+      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}

@@ -100,6 +100,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.10548
     code: https://github.com/mxllc/EmbRACE-3K
     project: https://mxlin043.github.io/EmbRACE/
+    huggingface: https://huggingface.co/datasets/mxlin043/EmbRACE
     image: ./assets/img/embrace3k.png
     # notes: Early Accept
 
