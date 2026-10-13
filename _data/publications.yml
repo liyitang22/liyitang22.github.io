@@ -93,6 +93,16 @@ main:
     image: ./assets/img/freemotion.png
     # notes: Early Accept
 
+  - title: "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
+    category: "Computer Vision"
+    authors: Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi
+    conference_short: arXiv
+    conference: arXiv preprint <strong>(arXiv:2606.09826)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2606.09826
+    code: https://github.com/mxlin043/OmniGameArena
+    project: https://mxlin043.github.io/OmniGameArena/
+    image: ./assets/img/omnigamearena.png
+
   - title: "EmbRACE3K: Embodied Reasoning and Action in Complex Environments"
     category: "Computer Vision"
     authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
