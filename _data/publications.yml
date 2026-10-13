@@ -19,6 +19,9 @@ main:
     conference_short: In submission
     conference: In submission.
     pdf: https://arxiv.org/pdf/2610.06129
+    code: https://github.com/Roboparty/I-BFM-Code
+    github_stars: 19
+    show_github_stars: true
     project: https://iamhardworking.github.io/I-BFM/
     image: ./assets/img/ibfm.jpg
 
