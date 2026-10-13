@@ -108,7 +108,7 @@ main:
     authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
     conference_short: In submission
     pdf: https://arxiv.org/pdf/2507.10548
-    code: https://github.com/mxllc/EmbRACE-3K
+    code: https://github.com/mxlin043/EmbRACE
     project: https://mxlin043.github.io/EmbRACE/
     huggingface: https://huggingface.co/datasets/mxlin043/EmbRACE
     image: ./assets/img/embrace3k.png
