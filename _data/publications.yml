@@ -1,14 +1,4 @@
 main:
-  - title: "P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning"
-    category: "Humanoid Robots"
-    authors: Xue Wang, <strong>Yitang Li</strong>, Yiming Zhang, Siqin Wang, Junhan Sun, Zhihao Liu, Yaojie Shen, Jingbo Yuan, Hao Zhao, Qingdu Li
-    conference_short: Preprint
-    conference: arXiv preprint <strong>(arXiv:2610.15833)</strong>, 2026.
-    pdf: https://arxiv.org/abs/2610.15833
-    code: https://github.com/Roboparty/P-BFM
-    project: https://roboparty.github.io/P-BFM/
-    image: https://roboparty.github.io/P-BFM/paper/method.png
-
   - title: "BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning"
     category: "Humanoid Robots"
     authors: <span class="first-author-highlight">Yitang Li*</span>, Zhengyi Luo*, Tonghe Zhang$, Cunxi Dai$, Anssi Kanervisto, Andrea Tirinzoni, Haoyang Weng, Kris Kitani, Mateusz Guzek, Ahmed Touati, Alessandro Lazaric, Matteo Pirotta†, Guanya Shi† (* Equal Contribution; $ Equal Contribution; † Equal Advising)
@@ -22,6 +12,17 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
     image: ./assets/img/bfm0.gif
+
+  - title: "P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning"
+    category: "Humanoid Robots"
+    authors: Xue Wang*, <span class="first-author-highlight">Yitang Li*</span>, Yiming Zhang*, Siqin Wang, Junhan Sun, Zhihao Liu, Yaojie Shen, Jingbo Yuan, Hao Zhao, Qingdu Li (* Equal Contribution)
+    conference_short: In submission
+    conference: In submission.
+    pdf: https://arxiv.org/abs/2610.15833
+    code: https://github.com/Roboparty/P-BFM
+    project: https://roboparty.github.io/P-BFM/
+    first_author: true
+    image: https://roboparty.github.io/P-BFM/paper/method.png
 
   - title: "I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning"
     category: "Humanoid Robots"
