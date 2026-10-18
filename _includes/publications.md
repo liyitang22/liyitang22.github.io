@@ -25,7 +25,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.video %}
-    <video class="teaser img-fluid z-depth-1" autoplay muted loop playsinline preload="metadata" poster="{{ link.image }}" aria-label="{{ link.title }} preview">
+    <video class="teaser img-fluid z-depth-1" width="270" height="123" autoplay muted loop playsinline preload="metadata" poster="{{ link.image }}" aria-label="{{ link.title }} preview">
       <source src="{{ link.video }}" type="video/mp4">
     </video>
     {% elsif link.image %}
