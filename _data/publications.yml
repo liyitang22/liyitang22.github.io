@@ -22,7 +22,8 @@ main:
     code: https://github.com/Roboparty/P-BFM
     project: https://roboparty.github.io/P-BFM/
     first_author: true
-    image: https://roboparty.github.io/P-BFM/paper/method.png
+    video: https://roboparty.github.io/P-BFM/pbfm_site_media/head-composite.mp4
+    image: https://roboparty.github.io/P-BFM/posters/head-composite.jpg
 
   - title: "I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning"
     category: "Humanoid Robots"
