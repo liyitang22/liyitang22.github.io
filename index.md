@@ -20,13 +20,15 @@ I am a first-year PhD student in Computer Science at **Stanford University**, wo
 - **Robot Learning🧠➡️🤖:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Vision–language–action models
 
 ## News
-- **[Oct. 2026]** PredActor is released 🤖✨ — predictive action diffusion for steerable onboard humanoid control! 🚀
+- **[Oct. 2026]** [IBFM is released](https://iamhardworking.github.io/I-BFM/) 🤖✨ — reward-conditioned learning for robust humanoid interaction!
+- **[Oct. 2026]** [P-BFM is released](https://roboparty.github.io/P-BFM/) 🦾✨ — perceptive behavioral foundation models for humanoid control!
 - **[Feb. 2026]** BFM-Zero is accepted to **ICLR 2026** ! See you in Brazil✨ And the **Training Code** is out! (ง ˙o˙)ว (๑˃̵ᴗ˂̵)و 😄
 - **[Jan. 2026]** BFM-Zero **Inference Tutorial & Deployment** 🚀 is out — try it, deploy it, and make it better 🛠️✨
 
 <details style="margin-top: -10px;">
 <summary style="margin-bottom: 10px;">Older news</summary>
 <ul>
+  <li><strong>[Oct. 2026]</strong> <a href="https://masteryip.github.io/predactor.github.io/">PredActor is released</a> 🤖✨ — predictive action diffusion for steerable onboard humanoid control! 🚀</li>
   <li><strong>[Dec. 2025]</strong> 🏆 Awarded the Presidential Scholarship of Tsinghua University (10 undergraduate recipients university-wide)</li>
   <li><strong>[Nov. 2025]</strong> Our paper <strong>BFM-Zero🛡️</strong> is finally released🧘‍♂️! A unified skill space for zero-shot humanoid control across diverse🎨 tasks!</li>
   <li><strong>[Sep. 2025]</strong> Our paper <strong>HDMI</strong> is out🎬➡️🤖!</li>
