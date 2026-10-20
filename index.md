@@ -20,7 +20,7 @@ I am a first-year PhD student in Computer Science at **Stanford University**, wo
 - **Robot Learning🧠➡️🤖:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Vision–language–action models
 
 ## News
-- **[Oct. 2026]** [IBFM is released](https://iamhardworking.github.io/I-BFM/) 🤖✨ — reward-conditioned learning for robust humanoid interaction!
+- **[Oct. 2026]** [I-BFM is released](https://iamhardworking.github.io/I-BFM/) 🤖✨ — reward-conditioned learning for robust humanoid interaction!
 - **[Oct. 2026]** [P-BFM is released](https://roboparty.github.io/P-BFM/) 🦾✨ — perceptive behavioral foundation models for humanoid control!
 - **[Feb. 2026]** BFM-Zero is accepted to **ICLR 2026** ! See you in Brazil✨ And the **Training Code** is out! (ง ˙o˙)ว (๑˃̵ᴗ˂̵)و 😄
 - **[Jan. 2026]** BFM-Zero **Inference Tutorial & Deployment** 🚀 is out — try it, deploy it, and make it better 🛠️✨
